@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDSENET_E22-900M22S
+D SX1262 LoRa Wireless Transceiver 850MHz-930MHz CDSENET E22-900M22S 915MHz SMD Transmitter Receiver rf Module
+K LoRa SX1262 CDSENET E22
+F https://www.aliexpress.com/item/SX1262-LoRa-Wireless-Transceiver-850MHz-930MHz-CDSENET-E22-900M22S-915MHz-SMD-Transmitter-Receiver-rf-Module/32895978831.html?spm=2114.search0104.3.2.578f5de7rYENFu&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_10059_10696_100031_10084_10083_5725015_10103_10618_5724315_10307_10820_10301_10821_5724215_10303_5724115,searchweb201603_56,ppcSwitch_5&algo_expid=5bad6754-79d8-47b2-9719-d4629dfdda71-0&algo_pvid=5bad6754-79d8-47b2-9719-d4629dfdda71&transAbTest=ae803_2&priceBeautifyAB=0
+$ENDCMP
+#
+#End Doc Library

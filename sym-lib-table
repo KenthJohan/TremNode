@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LoRa)(type Legacy)(uri C:/Users/Johan/Documents/GitHub/TremNode/LoRa.lib)(options "")(descr ""))
+)
