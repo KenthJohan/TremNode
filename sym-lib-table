@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name LoRa)(type Legacy)(uri C:/Users/Johan/Documents/GitHub/TremNode/LoRa.lib)(options "")(descr ""))
+  (lib (name node-rescue)(type Legacy)(uri ${KIPRJMOD}/node-rescue.lib)(options "")(descr ""))
 )
